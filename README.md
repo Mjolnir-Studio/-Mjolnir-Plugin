@@ -1,1 +1,1 @@
-# -Mjolnir-Plugin
+# Mjolnir-Plugin
